@@ -2,8 +2,11 @@
 
 PROJECT NAME - WARRENTCHAIN
 <br>
+
+
 PROJECT OVERVIEW -
 <br>
+
    The project aims to create a secure and transparent system that stores and verifies product warranties immutably. Traditional warranty systems rely on paper or centralized digital storage, which can be lost, forged, or manipulated. This project eliminates such issues by recording warranty details on an immutable ledger.
 Each product’s warranty data — including purchase date, serial number, and validity — is permanently stored and can be accessed anytime by customers, retailers, or service centers for verification. This ensures authenticity, transparency, and trust between brands and customers.
 <br>
@@ -13,6 +16,7 @@ SMART CODE CONTENT LINK - https://repo.sourcify.dev/11142220/0xcd33Af4ca3f3883Fd
 
 USAGE INSTRUCTION -
 <br>
+
 1. Registration.
 2. Customer Purchase.
 3.  Verification.
