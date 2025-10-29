@@ -1,20 +1,23 @@
-# WarrentChain
+#WARRENTCHAIN
 
-Project Name - WARRENTCHAIN
+PROJECT NAME - WARRENTCHAIN
 <br>
-Project Overview
+PROJECT OVERVIEW -
+<br>
    The project aims to create a secure and transparent system that stores and verifies product warranties immutably. Traditional warranty systems rely on paper or centralized digital storage, which can be lost, forged, or manipulated. This project eliminates such issues by recording warranty details on an immutable ledger.
 Each product’s warranty data — including purchase date, serial number, and validity — is permanently stored and can be accessed anytime by customers, retailers, or service centers for verification. This ensures authenticity, transparency, and trust between brands and customers.
 <br>
-smart code contact link - https://repo.sourcify.dev/11142220/0xcd33Af4ca3f3883Fd58C5314545142B53f5cdFc9/
+SMART CODE CONTENT LINK - https://repo.sourcify.dev/11142220/0xcd33Af4ca3f3883Fd58C5314545142B53f5cdFc9/
 <br>
-Usage Interactions -
+USAGE INSTRUCTION -
+<br>
 1. Registration.
 2. Customer Purchase.
 3.  Verification.
 4.  Claim Process.
    
 USED CODE -
+<br>
 
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.19;
@@ -166,5 +169,7 @@ contract WarrentChain {
     /// @notice Fallback - do nothing
     fallback() external payable {}
 }
+
+<br>
 
 <img width="1919" height="1016" alt="WarrentChain" src="https://github.com/user-attachments/assets/6a759230-8ea5-4dbb-a3a5-b723177eebe5" />
