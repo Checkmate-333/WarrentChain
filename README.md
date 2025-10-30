@@ -96,10 +96,8 @@ Kuntal Biswas
   Developer / Project Lead  
 <br>
   https://github.com/Checkmate-333 
-  
 <br>
   https://www.linkedin.com/in/kuntal-biswas-367598387 
-  
 <br>
   https://x.com/BiswasKunt45543?t=nFsquJaZ0BDWRrJxNZic6A&s=09
 
