@@ -1,4 +1,3 @@
-#WARRENTCHAIN
 
 # ⚡ WarrentChain
 
@@ -52,10 +51,39 @@ B --> C[Smart Contract Stores Hash]
 C --> D[Warranty Immutable Record Created]
 D --> E[Customer Gets Unique QR/Hash]
 E --> F[Verification via WarrentChain Portal]
+<br>
+
+# 📜 License
+
+This project is licensed under the MIT License – feel free to use and modify with credit.
+
+
+---
+
+# ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub and share it with others!
+Let’s make warranties smarter and immutable 🚀
+
+
+---
+
 
 <br>
 
-SMART CODE CONTENT LINK - https://repo.sourcify.dev/11142220/0xcd33Af4ca3f3883Fd58C5314545142B53f5cdFc9/
+# 💡 Inspiration
+
+> “We often lose warranty papers, but blockchain never forgets.”
+WarrentChain was born to bring trust, simplicity, and permanence to everyday product warranties.
+<br>
+
+
+# SMART CODE CONTENT LINK - https://repo.sourcify.dev/11142220/0xcd33Af4ca3f3883Fd58C5314545142B53f5cdFc9/
+<br>
+
+# Name	Role	GitHub
+Kuntal Biswas	Developer / Project Lead	@Checkmate-333
+
 <br>
 
  
@@ -215,7 +243,7 @@ contract WarrentChain {
 
 <br>
  
-#🌟 Future Enhancements
+# 🌟 Future Enhancements
 
 🧠 AI-based Warranty Expiry Alerts — Notify users before warranty ends.
 
@@ -229,8 +257,11 @@ contract WarrentChain {
 
 
 <br>
+
+# Screenshot - 
+<br>
 <img width="1919" height="1016" alt="WarrentChain" src="https://github.com/user-attachments/assets/6a759230-8ea5-4dbb-a3a5-b723177eebe5" />
 <br>
 
 
-Made with Love by Kuntal Biswas.
+# Made with Love by Kuntal Biswas.
