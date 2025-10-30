@@ -177,5 +177,24 @@ contract WarrentChain {
 }
 
 <br>
+FUTURE ENHANCEMENT
+<br>
 
+1. Warranty Claim Automation via Smart Contracts
+→ Integrate smart contracts to automatically validate and approve warranty claims once product and policy conditions are met — no manual verification required.
+
+2. Integration with IoT Devices
+→ Smart appliances or gadgets can auto-log warranty activation upon first use or send service alerts before warranty expiry.
+
+3. NFT-Based Warranty Certificates
+→ Convert each warranty into a unique NFT (non-fungible token), making it transferable and easily verifiable across platforms or resale markets.
+
+4. Multi-Brand Collaboration Network
+→ Create a common blockchain ecosystem where multiple brands and retailers can issue and verify warranties through a unified platform.
+
+5. AI-Powered Fraud Detection
+→ Use AI models to detect suspicious warranty claims or duplicate product entries using pattern recognition.
+<br>
 <img width="1919" height="1016" alt="WarrentChain" src="https://github.com/user-attachments/assets/6a759230-8ea5-4dbb-a3a5-b723177eebe5" />
+<br>
+Made with Love by Kuntal Biswas.
