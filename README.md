@@ -80,8 +80,8 @@ WarrentChain was born to bring trust, simplicity, and permanence to everyday pro
 # SMART CODE CONTENT LINK - https://repo.sourcify.dev/11142220/0xcd33Af4ca3f3883Fd58C5314545142B53f5cdFc9/
 <br>
 
-# Name ||	Role ||	GitHub
-Kuntal Biswas ||	Developer / Project Lead ||	@Checkmate-333
+# Name ||	Role ||	GitHub || Linkdin
+Kuntal Biswas ||	Developer / Project Lead ||	 https://github.com/Checkmate-333 || https://www.linkedin.com/in/kuntal-biswas-367598387
 
 <br>
 
