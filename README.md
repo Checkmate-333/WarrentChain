@@ -81,7 +81,7 @@ WarrentChain was born to bring trust, simplicity, and permanence to everyday pro
 <br>
 
 # Name ||	Role ||	GitHub
-Kuntal Biswas ||	Developer / Project || Lead	@Checkmate-333
+Kuntal Biswas ||	Developer / Project Lead ||	@Checkmate-333
 
 <br>
 
