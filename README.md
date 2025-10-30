@@ -1,5 +1,5 @@
 
-# ⚡ WarrentChain
+## ⚡ WarrentChain
 > *A blockchain-powered platform to store and verify product warranties — permanently, securely, and transparently.*
 
 ---
@@ -69,7 +69,7 @@ Let’s make warranties smarter and immutable 🚀
 
 <br>
 
-# 💡 Inspiration
+## 💡 Inspiration
 > “We often lose warranty papers, but blockchain never forgets.”
 WarrentChain was born to bring trust, simplicity, and permanence to everyday product warranties.
 <br>
