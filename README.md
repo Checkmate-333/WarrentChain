@@ -72,6 +72,8 @@ Let’s make warranties smarter and immutable 🚀
 ## 💡 Inspiration
 “We often lose warranty papers, but blockchain never forgets.”
 WarrentChain was born to bring trust, simplicity, and permanence to everyday product warranties.
+
+
 <br>
 
 
