@@ -4,13 +4,13 @@
 
 ---
 
-# 🧠 Project Overview
+## 🧠 Project Overview
 
 WarrentChain is an innovative solution designed to eliminate the hassle of lost or fake warranty cards. By leveraging *blockchain technology, it ensures that every product warranty is stored **immutably* and can be easily *verified* by both customers and service centers.
 
 ---
 
-# 🚀 Features
+## 🚀 Features
 
 - 🔒 *Immutable Warranty Records* — Once stored, warranties can’t be tampered with.  
 - 🧾 *Easy Warranty Verification* — Instantly verify warranty authenticity via a unique hash or QR code.  
@@ -20,7 +20,7 @@ WarrentChain is an innovative solution designed to eliminate the hassle of lost 
 
 ---
 
-# 🧩 Tech Stack
+## 🧩 Tech Stack
 
 | Layer | Technologies Used |
 |-------|--------------------|
@@ -32,7 +32,7 @@ WarrentChain is an innovative solution designed to eliminate the hassle of lost 
 
 ---
 
-# 🧑‍💻 User Interaction
+## 🧑‍💻 User Interaction
 
 1. *Customer* buys a product and receives a *digital warranty* stored on the blockchain.  
 2. The *retailer* registers the product details and warranty info into WarrentChain.  
@@ -41,7 +41,7 @@ WarrentChain is an innovative solution designed to eliminate the hassle of lost 
 
 ---
 
-#  🏗 How It Works
+##  🏗 How It Works
 
 
 A[Product Purchase] --> B[Retailer Uploads Warranty]
@@ -57,7 +57,7 @@ E --> F[Verification via WarrentChain Portal]
 ---
 <br>
 
-# 📜 License
+## 📜 License
 
 This project is licensed under the MIT License – feel free to use and modify with credit.
 
@@ -67,7 +67,7 @@ This project is licensed under the MIT License – feel free to use and modify w
 
 <br>
 
-# 💡 Inspiration
+## 💡 Inspiration
 “We often lose warranty papers, but blockchain never forgets.”
 WarrentChain was born to bring trust, simplicity, and permanence to everyday product warranties.
 
@@ -75,14 +75,14 @@ WarrentChain was born to bring trust, simplicity, and permanence to everyday pro
 <br>
 
 
-# SMART CODE CONTENT LINK -
+## SMART CODE CONTENT LINK -
 
 https://repo.sourcify.dev/11142220/0xcd33Af4ca3f3883Fd58C5314545142B53f5cdFc9/
 
 ---
 <br>
 
-# Contact Details
+## Contact Details
 
 Name - Kuntal Biswas  
 <br>
@@ -98,7 +98,7 @@ Role - Developer / Project Lead
 <br>
 
  
-# USED CODE -
+## USED CODE -
 
 <br>
 
@@ -255,7 +255,7 @@ contract WarrentChain {
 
 <br>
  
-# 🌟 Future Enhancements
+## 🌟 Future Enhancements
 
 🧠 AI-based Warranty Expiry Alerts — Notify users before warranty ends.
 
@@ -276,7 +276,7 @@ contract WarrentChain {
 <br>
 
 ---
-# ⭐ Support
+## ⭐ Support
 If you like this project, give it a ⭐ on GitHub and share it with others!
 Let’s make warranties smarter and immutable 🚀
 
