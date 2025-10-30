@@ -43,13 +43,18 @@ WarrentChain is an innovative solution designed to eliminate the hassle of lost 
 
 ## 🏗 How It Works
 
- 
-flowchart TD
+
 A[Product Purchase] --> B[Retailer Uploads Warranty]
+<br>
 B --> C[Smart Contract Stores Hash]
+<br>
 C --> D[Warranty Immutable Record Created]
+<br>
 D --> E[Customer Gets Unique QR/Hash]
+<br>
 E --> F[Verification via WarrentChain Portal]
+
+---
 <br>
 
 # 📜 License
@@ -73,21 +78,27 @@ Let’s make warranties smarter and immutable 🚀
 “We often lose warranty papers, but blockchain never forgets.”
 WarrentChain was born to bring trust, simplicity, and permanence to everyday product warranties.
 
-
+---
 <br>
 
 
 # SMART CODE CONTENT LINK -
+
 https://repo.sourcify.dev/11142220/0xcd33Af4ca3f3883Fd58C5314545142B53f5cdFc9/
+
+---
 <br>
 
 # Name ||	Role ||	GitHub || Linkdin || Twitter
+
 Kuntal Biswas ||	Developer / Project Lead ||	 https://github.com/Checkmate-333 || https://www.linkedin.com/in/kuntal-biswas-367598387 || https://x.com/BiswasKunt45543?t=nFsquJaZ0BDWRrJxNZic6A&s=09
 
+---
 <br>
 
  
 # USED CODE -
+
 <br>
 
 // SPDX-License-Identifier: MIT
@@ -255,7 +266,7 @@ contract WarrentChain {
 
 🔄 Multi-chain Support — Deploy across different blockchain networks.
 
-
+---
 <br>
 
 # Screenshot - 
@@ -263,5 +274,6 @@ contract WarrentChain {
 <img width="1919" height="1016" alt="WarrentChain" src="https://github.com/user-attachments/assets/6a759230-8ea5-4dbb-a3a5-b723177eebe5" />
 <br>
 
-
+---
 # Made with ❤ by Kuntal Biswas.
+---
