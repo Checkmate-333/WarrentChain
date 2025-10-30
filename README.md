@@ -89,17 +89,17 @@ https://repo.sourcify.dev/11142220/0xcd33Af4ca3f3883Fd58C5314545142B53f5cdFc9/
 ---
 <br>
 
-# Name ||	Role ||	GitHub || Linkdin || Twitter
+# Contact Details
 
-Kuntal Biswas  
+Name - Kuntal Biswas  
 <br>
-  Developer / Project Lead  
+Role - Developer / Project Lead  
 <br>
-  https://github.com/Checkmate-333 
+  Github - https://github.com/Checkmate-333 
 <br>
-  https://www.linkedin.com/in/kuntal-biswas-367598387 
+ Linkdin - https://www.linkedin.com/in/kuntal-biswas-367598387 
 <br>
-  https://x.com/BiswasKunt45543?t=nFsquJaZ0BDWRrJxNZic6A&s=09
+ Twitter - https://x.com/BiswasKunt45543?t=nFsquJaZ0BDWRrJxNZic6A&s=09
 
 ---
 <br>
