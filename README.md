@@ -1,16 +1,16 @@
 
-## ⚡ WarrentChain
+# ⚡ WarrentChain
 *A blockchain-powered platform to store and verify product warranties — permanently, securely, and transparently.*
 
 ---
 
-## 🧠 Project Overview
+# 🧠 Project Overview
 
 WarrentChain is an innovative solution designed to eliminate the hassle of lost or fake warranty cards. By leveraging *blockchain technology, it ensures that every product warranty is stored **immutably* and can be easily *verified* by both customers and service centers.
 
 ---
 
-## 🚀 Features
+# 🚀 Features
 
 - 🔒 *Immutable Warranty Records* — Once stored, warranties can’t be tampered with.  
 - 🧾 *Easy Warranty Verification* — Instantly verify warranty authenticity via a unique hash or QR code.  
@@ -20,7 +20,7 @@ WarrentChain is an innovative solution designed to eliminate the hassle of lost 
 
 ---
 
-## 🧩 Tech Stack
+# 🧩 Tech Stack
 
 | Layer | Technologies Used |
 |-------|--------------------|
@@ -32,7 +32,7 @@ WarrentChain is an innovative solution designed to eliminate the hassle of lost 
 
 ---
 
-## 🧑‍💻 User Interaction
+# 🧑‍💻 User Interaction
 
 1. *Customer* buys a product and receives a *digital warranty* stored on the blockchain.  
 2. The *retailer* registers the product details and warranty info into WarrentChain.  
@@ -41,7 +41,7 @@ WarrentChain is an innovative solution designed to eliminate the hassle of lost 
 
 ---
 
-## 🏗 How It Works
+#  🏗 How It Works
 
 
 A[Product Purchase] --> B[Retailer Uploads Warranty]
@@ -64,17 +64,10 @@ This project is licensed under the MIT License – feel free to use and modify w
 
 ---
 
-# ⭐ Support
-If you like this project, give it a ⭐ on GitHub and share it with others!
-Let’s make warranties smarter and immutable 🚀
-
-
----
-
 
 <br>
 
-## 💡 Inspiration
+# 💡 Inspiration
 “We often lose warranty papers, but blockchain never forgets.”
 WarrentChain was born to bring trust, simplicity, and permanence to everyday product warranties.
 
@@ -283,5 +276,14 @@ contract WarrentChain {
 <br>
 
 ---
+# ⭐ Support
+If you like this project, give it a ⭐ on GitHub and share it with others!
+Let’s make warranties smarter and immutable 🚀
+
+
+---
+<br>
+
+
 # Made with ❤ by Kuntal Biswas.
 ---
